@@ -5,7 +5,9 @@ Build my world is a project that spawns a different Models Created in Gazebo:
 - Model imported from online Gazebo Models Library.
 - Display a Welcome Message created with C++.
   
-![Screenshot from 2023-08-06 11-46-15](https://github.com/abbasdiab1999/Build-My-World/assets/137702684/7f9b0421-f3c9-4f3d-a470-e66586d16db8)
+![Build-My-World](https://github.com/abbasdiab1999/Build-My-World/assets/137702684/357faf83-9455-4f9e-b96a-0596f3b5383f)
+
+
 ## Requirments
 - Gazebo
 - C++

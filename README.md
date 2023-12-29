@@ -28,26 +28,16 @@ Inside **MyWorld.world File**
 **Run World file:** ` gazebo MyWorld `  
 
 ## Project Structure
-.Build-My-World
-  │
-  ├── Model
-  │   ├── 4WheelRobot
-  │   │   ├── model.config
-  │   │   └── model.sdf
-  │   ├── MyBuilding
-  │   │   ├── model.config
-  │   │   └── model.sdf
-  │   └── README.md
-  │
-  ├── Script
-  │   ├── Welcome.cpp
-  │   └── README.md
-  │
-  ├── World
-  │   ├── MyWorld.world
-  │   └── README.md
-  │
-  ├── .gitignore
-  ├── LICENSE
-  └── README.md
+.Build-My-World                    # Project Name  
+- Model                            # Models Folder  
+  - 4WheelRobot                    # Robot Model Folder  
+    - model.config                 # Model Configuration File  
+    - model.sdf                    # Model Simulation Description File  
+  - MyBuilding                     # Building Model Folder
+    - model.config                 # Model Configuration File  
+    - model.sdf                    # Model Simulation Description File  
+- Script                           # Script Folder  
+    - Welcome.cpp                  # C++ Script File  
+- World                            # World Folder  
+  - MyWorld.world                  # World File that contains all Models & C++ Plugin  
 

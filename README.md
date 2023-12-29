@@ -28,26 +28,26 @@ Inside **MyWorld.world File**
 **Run World file:** ` gazebo MyWorld `  
 
 ## Project Structure
-Build-My-World
-│
-├── Model
-│   ├── 4WheelRobot
-│   │   ├── model.config
-│   │   └── model.sdf
-│   ├── MyBuilding
-│   │   ├── model.config
-│   │   └── model.sdf
-│   └── README.md
-│
-├── Script
-│   ├── Welcome.cpp
-│   └── README.md
-│
-├── World
-│   ├── MyWorld.world
-│   └── README.md
-│
-├── .gitignore
-├── LICENSE
-└── README.md
+.Build-My-World
+  │
+  ├── Model
+  │   ├── 4WheelRobot
+  │   │   ├── model.config
+  │   │   └── model.sdf
+  │   ├── MyBuilding
+  │   │   ├── model.config
+  │   │   └── model.sdf
+  │   └── README.md
+  │
+  ├── Script
+  │   ├── Welcome.cpp
+  │   └── README.md
+  │
+  ├── World
+  │   ├── MyWorld.world
+  │   └── README.md
+  │
+  ├── .gitignore
+  ├── LICENSE
+  └── README.md
 

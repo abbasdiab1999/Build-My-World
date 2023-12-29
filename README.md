@@ -46,3 +46,8 @@ Build-My-World
 ├── World
 │   ├── MyWorld.world
 │   └── README.md
+│
+├── .gitignore
+├── LICENSE
+└── README.md
+

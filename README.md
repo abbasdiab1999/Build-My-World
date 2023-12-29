@@ -19,7 +19,7 @@ Build my world is a project that spawns a different Models Created in Gazebo:
 **Clone the Repository with:** ` git clone https://github.com/abbasdiab1999/Build-My-World.git`  
 
 ## C++ Plugin
-Make sure C++:  
+Make sure to include C++ Plugin:  
 ` <plugin name="Your_Script_Name" filename="lib"Your_Script_Name".so"/>`   
 Inside **MyWorld.world File**
 
